@@ -1,0 +1,37 @@
+{
+  "name": "vite-plugin-tanstack-sitemap",
+  "description": "Vite plugin to generate a `sitemap.xml` from your TanStack Start route manifest",
+  "author": {
+    "name": "thomas janhonen",
+    "email": "thomas.janhonen@thriv.dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thrivcompany/vite-plugin-tanstack-sitemap.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "vite-plugin",
+    "tanstack",
+    "sitemap"
+  ],
+  "version": "0.0.1",
+  "type": "module",
+  "main": "bin/index.js",
+  "types": "bin/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "pnpm build",
+    "format": "biome format --write .",
+    "lint": "biome lint --write --unsafe ."
+  },
+  "peerDependencies": {
+    "vite": "^6.3.5"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^2.0.0-beta.1",
+    "typescript": "^5.8.3",
+    "vite": "^6.3.5"
+  },
+  "packageManager": "pnpm@10.11.0"
+}
