@@ -2,9 +2,9 @@
 
 # 📡 vite-plugin-tanstack-sitemap
 
-**Vite plugin to generate a `sitemap.xml` from your TanStack Start route manifest**
-
-> Automatically create a SEO-friendly sitemap from your route definition during build time.
+**Vite plugin to generate a `sitemap.xml` from your [TanStack Start](https://tanstack.com/start) route manifest**
+  
+Automatically create a SEO-friendly sitemap from your route definition during build time.
 
 <div>
 
