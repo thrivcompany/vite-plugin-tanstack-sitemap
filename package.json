@@ -15,7 +15,7 @@
     "tanstack",
     "sitemap"
   ],
-  "version": "0.0.1",
+  "version": "0.0.3",
   "type": "module",
   "main": "bin/index.js",
   "types": "bin/index.d.ts",
