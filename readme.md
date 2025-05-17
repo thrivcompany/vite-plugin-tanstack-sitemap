@@ -8,7 +8,7 @@ Automatically create a SEO-friendly sitemap from your route definition during bu
 
 <div>
 
-[![license](https://img.shields.io/github/license/thrivcompany/elrond.svg?style=flat-square)](LICENSE) [![Pull Request](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=flat-square)](https://github.com/thrivcompany/elrond/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) [![code with love by thrivcompany](https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-thrivcompany-ff1414.svg?style=flat-square)](https://github.com/thrivcompany)
+[![license](https://img.shields.io/github/license/thrivcompany/vite-plugin-tanstack-sitemap.svg?style=flat-square)](LICENSE) [![Pull Request](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=flat-square)](https://github.com/thrivcompany/vite-plugin-tanstack-sitemap/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) [![code with love by thrivcompany](https://img.shields.io/badge/%3C%2F%3E%20with%20%E2%99%A5%20by-thrivcompany-ff1414.svg?style=flat-square)](https://github.com/thrivcompany)
 
 </div>
 
